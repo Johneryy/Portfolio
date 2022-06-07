@@ -179,7 +179,7 @@ export default function About() {
             <u>Let's Talk 🎙</u>
           </div>
           <p className="center">
-            Want to reach out? Feel free to contact me via one of my avialable
+            Want to reach out? Feel free to contact me via one of my available
             media outlets:
           </p>
           <div className="contact-btn">
